@@ -1,2 +1,2 @@
-# bearing-point2017
-Gestionnaire de version pour le projet fil rouge de bearingPoint
+# BP2017
+Gestionnaire de version pour le projet fil rouge de bp
